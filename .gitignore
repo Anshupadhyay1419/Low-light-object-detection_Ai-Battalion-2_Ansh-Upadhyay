@@ -1,0 +1,15 @@
+# Ignore dataset
+data/
+
+# Ignore outputs
+outputs/
+
+# Ignore trained models
+models/
+
+# Ignore virtual environment
+venv/
+
+# Ignore python cache
+__pycache__/
+*.pyc
